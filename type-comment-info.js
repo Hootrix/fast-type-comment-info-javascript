@@ -17,7 +17,8 @@ var a =
 	em:{ar:'comname',em:'commail',url:'comurl'},
 	diy:{ar:'comment_author',em:'comment_email',url:'comment_url'},
 	zblog:{ar:'inpName',em:'inpEmail',url:'inpHomePage'},
-	phpernote: {ar: 'c_name',em: 'c_email',url: 'c_url'}
+	phpernote: {ar: 'c_name',em: 'c_email',url: 'c_url'},
+	hexo:{ar: 'nick',em: 'mail',url: 'link'},
 };
 c(a);
 function c(arr) {
